@@ -1,0 +1,22 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.num{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.btn{
+    font-size: 16px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: white;
+    color:black;
+}
